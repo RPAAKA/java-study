@@ -1,4 +1,4 @@
-// 프로그래머스 없는 숫자 더하기
+// 프로그래머스 없는 숫자 더하기 (완료!)
 
 public class Solution6 {
     public static void main(String[] args) {
