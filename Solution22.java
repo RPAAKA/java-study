@@ -17,6 +17,7 @@ public class Solution22 {
 
         System.out.println(answer);
     }
+
 }
 
 
